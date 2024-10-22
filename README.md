@@ -5,3 +5,4 @@ The following are the patterns that are covered in this repo:
 2.Right Triangular Pattern
 3.Hallow Square Pattern
 4.Cross Pattern
+5.Diamond Pattern
